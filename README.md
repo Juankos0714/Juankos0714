@@ -108,12 +108,17 @@ A full-stack reactive platform for motel and hotel management, deployed on Azure
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juankos0714&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankos0714&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=juankos0714&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200" alt="Most Used Languages"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="200" alt="Repos per Language"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="200" alt="Stats"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="200" alt="Productive Time"/>
 </p>
 
 ---
